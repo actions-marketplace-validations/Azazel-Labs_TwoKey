@@ -5,7 +5,7 @@
 [![CI](https://github.com/Azazel-Labs/twokey/actions/workflows/ci.yml/badge.svg)](https://github.com/Azazel-Labs/twokey/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/Azazel-Labs/twokey)](https://github.com/Azazel-Labs/twokey/releases)
 [![crates.io](https://img.shields.io/crates/v/twokey.svg)](https://crates.io/crates/twokey)
-[![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](LICENSE)
+[![License: MIT-0](https://img.shields.io/badge/license-MIT--0-blue.svg)](LICENSE)
 [![Rust: 1.90+](https://img.shields.io/badge/rust-1.90%2B-orange.svg)](Cargo.toml)
 [![Edition: 2024](https://img.shields.io/badge/edition-2024-orange.svg)](Cargo.toml)
 [![Platforms](https://img.shields.io/badge/platforms-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg)](#installation)
@@ -442,7 +442,5 @@ names rather than country flags.
 
 ## License
 
-twokey is dedicated to the public domain under
-[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
-See [LICENSE](LICENSE) for the full legal text. Third-party dependencies retain
-their own licenses.
+twokey is licensed under [MIT-0](LICENSE) (MIT No Attribution): use it for anything,
+no attribution required. Third-party dependencies retain their own licenses.

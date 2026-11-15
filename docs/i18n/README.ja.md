@@ -129,4 +129,4 @@ git commit -m "Fix token validation" -m "#Human"
 
 このページは導入部分の翻訳です。[英語のドキュメント](../../README.md)を正式な参照先としてください。[設定](../configuration.md)、[GitHub 連携](../github-actions.md)、[セキュリティモデル](../security.md)も参照できます。ローカルのフックは回避できるため、強制適用には信頼できる CI とブランチ保護が必要です。翻訳の修正も歓迎します。
 
-メンテナー: Nick Darnell。[CC0 1.0 Universal](../../LICENSE) で公開されています。依存ライブラリにはそれぞれのライセンスが適用されます。
+メンテナー: Nick Darnell。[MIT-0](../../LICENSE) で公開されています。依存ライブラリにはそれぞれのライセンスが適用されます。

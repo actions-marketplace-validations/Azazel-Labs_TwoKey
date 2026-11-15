@@ -129,4 +129,4 @@ Pon el marcador en su propia línea, al final del mensaje, después de una líne
 
 Esta página es una introducción traducida. La [documentación en inglés](../../README.md) es la referencia principal. Consulta la [configuración](../configuration.md), la [integración con GitHub](../github-actions.md) y el [modelo de seguridad](../security.md). Los hooks locales se pueden eludir; la aplicación efectiva requiere CI de confianza y protección de ramas. Las correcciones de traducción son bienvenidas.
 
-Mantenedor: Nick Darnell. Publicado bajo [CC0 1.0 Universal](../../LICENSE). Las dependencias conservan sus propias licencias.
+Mantenedor: Nick Darnell. Publicado bajo [MIT-0](../../LICENSE). Las dependencias conservan sus propias licencias.
