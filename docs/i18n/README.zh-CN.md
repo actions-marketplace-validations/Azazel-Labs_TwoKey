@@ -129,4 +129,4 @@ git commit -m "Fix token validation" -m "#Human"
 
 本页是翻译后的入门介绍，以[英文文档](../../README.md)为准。请参阅[配置说明](../configuration.md)、[GitHub 集成](../github-actions.md)和[安全模型](../security.md)。本地钩子可以被绕过；强制执行需要可信的 CI 和分支保护。欢迎提交翻译修正。
 
-维护者：Nick Darnell。项目采用 [CC0 1.0 Universal](../../LICENSE)。第三方依赖保留各自的许可证。
+维护者：Nick Darnell。项目采用 [MIT-0](../../LICENSE)。第三方依赖保留各自的许可证。

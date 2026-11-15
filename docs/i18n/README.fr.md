@@ -129,4 +129,4 @@ Placez le marqueur seul sur une ligne à la fin du message, après une ligne vid
 
 Cette page est une introduction traduite. La [documentation anglaise](../../README.md) fait référence. Consultez la [configuration](../configuration.md), l’[intégration GitHub](../github-actions.md) et le [modèle de sécurité](../security.md). Les hooks locaux peuvent être contournés ; une CI de confiance et la protection des branches assurent l’application de la politique. Les corrections de traduction sont bienvenues.
 
-Responsable du projet : Nick Darnell. Distribué sous [CC0 1.0 Universal](../../LICENSE). Les dépendances conservent leurs propres licences.
+Responsable du projet : Nick Darnell. Distribué sous [MIT-0](../../LICENSE). Les dépendances conservent leurs propres licences.

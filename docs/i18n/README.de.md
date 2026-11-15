@@ -129,4 +129,4 @@ Setze den Marker auf eine eigene Zeile am Ende der Commit-Nachricht, nach einer 
 
 Diese Seite ist eine übersetzte Einführung. Maßgeblich ist die [englische Dokumentation](../../README.md). Siehe [Konfiguration](../configuration.md), [GitHub-Integration](../github-actions.md) und [Sicherheitsmodell](../security.md). Lokale Hooks können umgangen werden; zur Durchsetzung sind vertrauenswürdige CI und geschützte Branches nötig. Übersetzungskorrekturen sind willkommen.
 
-Maintainer: Nick Darnell. Veröffentlicht unter [CC0 1.0 Universal](../../LICENSE). Abhängigkeiten behalten ihre jeweiligen Lizenzen.
+Maintainer: Nick Darnell. Veröffentlicht unter [MIT-0](../../LICENSE). Abhängigkeiten behalten ihre jeweiligen Lizenzen.
